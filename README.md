@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Estou estudando com o Alura e utilizo o Git Hub para compartilhar os meus projetos.
 <!--
 **IsaMariGarcia/IsaMariGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
